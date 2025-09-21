@@ -6,6 +6,8 @@
 
 ---
 
+https://github.com/user-attachments/assets/89c835f1-4352-4ed7-9f7a-7a4dda9aaafe
+
 ## 🔹 Funcionalidades
 
 - Abrir o navegador Google Chrome automaticamente.
